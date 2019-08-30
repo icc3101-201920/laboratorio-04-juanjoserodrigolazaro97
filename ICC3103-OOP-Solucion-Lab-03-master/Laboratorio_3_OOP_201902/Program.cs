@@ -37,6 +37,7 @@ namespace Laboratorio_3_OOP_201902
             Console.WriteLine(String.Join(", ", board.GetMeleeAttackPoints()));
             Console.WriteLine(String.Join(", ", board.GetRangeAttackPoints()));
             Console.WriteLine(board.WeatherCards.Count);
+            
         }
     }
 }
